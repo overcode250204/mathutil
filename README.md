@@ -8,6 +8,14 @@
 * A demonstration of using CI (Continuous Integration) with GitHub Actions 
 * ...
 
+## Screenshots
+### TDD, DDT test script with JUnit
+![TDD DDT test script](https://github.com/overcode250204/mathutil/blob/master/screenshots/TDD_DDT%20with%20JUnit.png?raw=true)
+
+## Build app with Maven
+![Maven builder](https://github.com/overcode250204/mathutil/blob/master/screenshots/Maven%20Builder.png?raw=true)
+
+
 ### Connect me via: khoinguyen.250204@gmail.com
 
 #### &#169; 2025 overcode2502
