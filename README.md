@@ -19,3 +19,5 @@
 ### Connect me via: khoinguyen.250204@gmail.com
 
 #### &#169; 2025 overcode2502
+
+[![Math Utility Project (CI included) | © 2025 by overcode2502](https://github.com/overcode250204/mathutil/actions/workflows/ci-script.yml/badge.svg?branch=master)](https://github.com/overcode250204/mathutil/actions/workflows/ci-script.yml)
