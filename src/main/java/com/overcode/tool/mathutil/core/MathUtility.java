@@ -12,10 +12,12 @@ public class MathUtility {
     //20! VỪA ĐỦ KIỂU LONG, TỨC LÀ 21! VƯỢT KIỂU LONG
 
     public static long getFactorial(int n) {
+        if (n < 0 || n > 20)
+            throw new IllegalArgumentException("n must be between 0 and 20");
         if (n == 0 || n == 1) {
             return 1;
         }
-        return getFactorial(n - 1) * n;
+        return n * getFactorial(n - 1);
 
         //ĐỆ QUY - RECURSION - GỌI LẠI CHÍNH MÌNH VỚI QUY MÔ NHỎ HƠN
         //ĐEM LÊN SERVER MÀ RA MÀU XANH:
